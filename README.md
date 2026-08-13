@@ -22,4 +22,4 @@ Primarily designed for university-level students, the program bridges theoretica
   1. *Feature Engineering:* Generated target-encoded variables and extracted temporal features from raw timestamps.
   2. *Model Evaluation:* Evaluated multiple architectures including Random Forests and Gradient Boosting.
   3. *Optimization:* Utilized Grid Search for rigorous hyperparameter tuning to prevent overfitting.
-- **Result:** Ranked in the Top 20% of the global cohort with an evaluation metric score of 0.8383 (ROC-AUC).
+- - **Result:** Ranked in the Top 20% of the global cohort with a **0.8383 / 1.00** ROC-AUC score.
